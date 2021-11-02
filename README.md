@@ -14,6 +14,7 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
 [FrontEnd Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br/>
 [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions#what-is-vuejs)
+[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions#table-of-contents)
 
 
 ## Junior
