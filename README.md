@@ -1,19 +1,14 @@
 
 # 120-perguntas-frontend
 
-  <br/><br/>
-
 ⬛ Níveis Junior, Pleno, Senior e Especialista
 
-⬛ por Ruben Paschoarelli
-
-  <br/><br/>
+⬛ por Ruben Paschoarelli + complementos de Breno Romeiro
 
 `
 Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candidatos se nivelarem, em entrevistas de emprego. Não são necessariamente o fator decisivo da senioridade de cada candidato, outros fatores como experiência em projetos, em liderança, documentação, saber caso de uso de tecnologia e conceitos, as vezes pode contar muito mais do que saber decor respostas para perguntas.
 `
-
-  <br/><br/>
+  <br/>
 
 ### Outros Repositórios (em inglês)
 
@@ -26,14 +21,19 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
   
 
 1.`O que é SQL injection?`<br/>
+  * [OWASP SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
+  * [SQL Injection - Simply Explained](https://www.youtube.com/watch?v=FwIUkAwKzG8)
+  * [SQL Injection (Do Ataque a Prevenção) // Dicionário do Programador](https://www.youtube.com/watch?v=jN8QGOxdhvM)
 
 2.`O que é escopo em JavaScript?`<br/>
+  * [Scope W3C](https://www.w3schools.com/js/js_scope.asp)
 
 3.`Explique o CSS “box model” e os componentes de layout que o compõem.`<br/>
+  * [CSS Box Model - W3C](https://www.w3schools.com/css/css_boxmodel.asp)
 
 4.`Como JavaScript e jQuery são diferentes?`<br/>
 
-5.`O que é é um Callback Hell?`<br/>
+5.`O que é um Callback Hell?`<br/>
 
 6.`O que é Cross-Site Scripting (XSS)?`<br/>
 
