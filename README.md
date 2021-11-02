@@ -13,7 +13,7 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 ### Outros Repositórios (em inglês)
 
 [FrontEnd Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br/>
-[Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions#what-is-vuejs)
+[Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions#what-is-vuejs)<br/>
 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions#table-of-contents)
 
 
